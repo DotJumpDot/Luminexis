@@ -46,6 +46,6 @@ bun.lockb
 *.tmp
 *.temp
 
-.vsix
-.vsix/
+# npm auth
+.npmrc
 *.vsix
